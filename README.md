@@ -15,7 +15,7 @@ The repo contains the Seattle Pet Licenses CSV dataset and a Python Notebook fil
 ## Dataset
 Ensure the dataset file `new_Seattle_Pet_Licenses_20250203_raw.csv` is located in your project directory folder. If you're using a platform like Google Colab or Jupyter Notebook, make sure the path to the file is correctly specified (`/content/new_Seattle_Pet_Licenses_20250203_raw.csv`).
 
-## Why use this
+## Why Use This
 This script is a quick and insightful way to:
 - Practice data visualization and basic analysis using real-world datasets.
 - Discover fun trends in local pet naming culture.
