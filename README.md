@@ -10,7 +10,7 @@ Details of project:
 - Visualizes the result in a horizontal bar chart for easy interpretation.
 
 ## Instruction
-The repo contains a Python Notebook file that can be opened in Google Colab and the Seattle Pet Licenses CSV dataset. Import the file into Colab, copy and paste the code in Code Example, or click i3_Pet Licenses.ipynb. The script reads the CSV dataset, processes the dataset using `pandas`, and displays the results in a clear bar graph using `matplotlib` and `seaborn`.
+The repo contains a Python Notebook file that can be opened in Google Colab and the Seattle Pet Licenses CSV dataset. Download and import the dataset into Colab, copy and paste the code in Code Example, or click i3_Pet Licenses.ipynb. The script reads the CSV dataset, processes the dataset using `pandas`, and displays the results in a clear bar graph using `matplotlib` and `seaborn`.
 
 ## Dataset
 Ensure the dataset file `new_Seattle_Pet_Licenses_20250203_raw.csv` is located in your project directory. If you're using a platform like Google Colab or Jupyter Notebook, make sure the path to the file is correctly specified (`/content/new_Seattle_Pet_Licenses_20250203_raw.csv`).
