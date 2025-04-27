@@ -16,8 +16,8 @@ This repository contains Python code demonstrating how to access three different
     * Simply run this cell by clicking the play button to its left. 
 
 5.   **Run Example 3 - HTML and HTTP to Download Webpage:**
-    * The third code cell will download the HTML content and print the title and the text of the first three paragraphs found on the webpage.
-    * Simply run this cell by clicking the play button to its left. The `beautifulsoup4` library will be automatically installed by running the following command **before** running the HTML example function:
+     * The third code cell will download the HTML content and print the title and the text of the first three paragraphs found on the webpage.
+     * Simply run this cell by clicking the play button to its left. The `beautifulsoup4` library will be automatically installed by running the following command **before** running the HTML example function:
       ```python
       !pip install beautifulsoup4
       ```
