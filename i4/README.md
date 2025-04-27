@@ -12,7 +12,7 @@ This repository contains Python code demonstrating how to access three different
     * Once the file is uploaded, run the cell by clicking its play button.
       
 3.  **Run Example 2 - JSON and API Connection over HTTP:**
-    * The second code cell will fetch data from a public JSON API and print a sample.
+    * The second code cell will fetch data from a public JSON API and prints a sample.
     * Simply run this cell by clicking the play button to its left. 
 
 5.   **Run Example 3 - HTML and HTTP to Download Webpage:**
@@ -29,6 +29,6 @@ The output of each successful data access will be printed below the respective c
 
 The Python code in the Colab notebook defines three functions:
 
-* `read_and_print_csv_from_uploaded_file(filename="sample.csv")`: Reads and prints a sample from a CSV file uploaded to Colab.
+* `find_top_phrases(filename="sample.csv")`: Reads and prints the 20 most commonly repeated phrases consisting three words from a CSV file uploaded to Colab.
 * `get_and_print_json_from_api()`: Fetches and prints data from a public JSON API.
 * `get_and_print_multiple_paragraphs(url="https://www.example.com")`: Downloads the HTML content of a webpage and extracts and prints its title and the text of the first three paragraph elements.
